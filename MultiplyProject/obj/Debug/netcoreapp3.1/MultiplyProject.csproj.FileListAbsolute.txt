@@ -1,0 +1,11 @@
+C:\repos\MultiplySolution\MultiplyProject\bin\Debug\netcoreapp3.1\MultiplyProject.exe
+C:\repos\MultiplySolution\MultiplyProject\bin\Debug\netcoreapp3.1\MultiplyProject.deps.json
+C:\repos\MultiplySolution\MultiplyProject\bin\Debug\netcoreapp3.1\MultiplyProject.runtimeconfig.json
+C:\repos\MultiplySolution\MultiplyProject\bin\Debug\netcoreapp3.1\MultiplyProject.runtimeconfig.dev.json
+C:\repos\MultiplySolution\MultiplyProject\bin\Debug\netcoreapp3.1\MultiplyProject.dll
+C:\repos\MultiplySolution\MultiplyProject\bin\Debug\netcoreapp3.1\MultiplyProject.pdb
+C:\repos\MultiplySolution\MultiplyProject\obj\Debug\netcoreapp3.1\MultiplyProject.csprojAssemblyReference.cache
+C:\repos\MultiplySolution\MultiplyProject\obj\Debug\netcoreapp3.1\MultiplyProject.AssemblyInfoInputs.cache
+C:\repos\MultiplySolution\MultiplyProject\obj\Debug\netcoreapp3.1\MultiplyProject.AssemblyInfo.cs
+C:\repos\MultiplySolution\MultiplyProject\obj\Debug\netcoreapp3.1\MultiplyProject.dll
+C:\repos\MultiplySolution\MultiplyProject\obj\Debug\netcoreapp3.1\MultiplyProject.pdb
